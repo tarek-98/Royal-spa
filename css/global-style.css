@@ -455,7 +455,7 @@ h2.headingText span {
   height: 70px;
   position: fixed;
   bottom: 40px;
-  right: 30px;
+  right: 20px;
   z-index: 1000;
 }
 
@@ -464,7 +464,7 @@ h2.headingText span {
   height: 50px;
   position: fixed;
   bottom: 120px;
-  right: 45px;
+  right: 35px;
   z-index: 1000;
 }
 
