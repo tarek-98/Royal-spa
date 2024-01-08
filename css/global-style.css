@@ -468,15 +468,6 @@ h2.headingText span {
   z-index: 1000;
 }
 
-@media (max-width:425px) {
-  .wabutton {
-    bottom: 280px;
-  }
-
-  .callbutton {
-    bottom: 360px;
-  }
-}
 
 .hubungi button {
   font-size: 25px;
